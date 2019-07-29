@@ -1,1 +1,3 @@
-# Default ignored files/workspace.xml*.ini
+# Default ignored files
+/workspace.xml
+*.ini
